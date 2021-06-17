@@ -41,5 +41,3 @@ if len(kq)<26:
     print("sem chance")
 else:
     print(kq)
-    
-    
