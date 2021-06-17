@@ -20,7 +20,3 @@ for i in range(len(lq),-1,-1):
             print(len(item))
             print(*item)
             exit(0)
-        
-        
-    
-    
